@@ -1,9 +1,3 @@
----
-title: python之socket实现
-date: 2019-06-05 19:33:00
-tags: python,socket
-categories: python
----
 # 题外话
 ## python的函数反射
 **问题**:如果不知道一个对象的方法，参数等等，如何调用对象里的方法呢？
