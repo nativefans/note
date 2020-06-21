@@ -2,59 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="981c8d29-0aa9-4b45-9215-4904648a7f06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-01.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/历史数据爬取/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/历史数据爬取/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/历史数据爬取/A_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/历史数据爬取/A_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/历史数据爬取/US_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/历史数据爬取/US_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/历史数据爬取/fund_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/历史数据爬取/fund_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/历史数据爬取/fund_price_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/历史数据爬取/fund_price_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/历史数据爬取/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/历史数据爬取/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/spiders/LagouSpider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/lagou/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉勾网/lagou/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/.idea/daily.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/gp/spiders/crawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/spiders/DailyFunds.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/funds/spiders/crawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/funds/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美国基金/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/美股每日/gp/spiders/crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy-pyinstaller/gp/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy-pyinstaller/gp/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy-pyinstaller/gp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapy-pyinstaller/gp/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +17,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy-pyinstaller/gp/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1470">
-              <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据分析/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy-pyinstaller/gp/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1218">
+              <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scrapy-pyinstaller/gp/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -126,10 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/daily/gp/settings.py" />
-        <option value="$PROJECT_DIR$/daily/gp/pipelines.py" />
-        <option value="$PROJECT_DIR$/指数/crawler.py" />
-        <option value="$PROJECT_DIR$/daily/gp/spiders/crawler.py" />
         <option value="$PROJECT_DIR$/美股/gp/settings.py" />
         <option value="$PROJECT_DIR$/美股/gp/pipelines.py" />
         <option value="$PROJECT_DIR$/test.py" />
@@ -155,7 +128,6 @@
         <option value="$PROJECT_DIR$/每日/gp/spiders/crawler.py" />
         <option value="$PROJECT_DIR$/每日/gp/middlewares.py" />
         <option value="$PROJECT_DIR$/拉勾网/lagou/lagou/middlewares.py" />
-        <option value="$PROJECT_DIR$/数据分析/test.py" />
         <option value="$PROJECT_DIR$/美股每日/gp/spiders/crawler.py" />
         <option value="$USER_HOME$/Desktop/spider/A_gp/gp/spiders/crawler.py" />
         <option value="$PROJECT_DIR$/汇总/gp/items.py" />
@@ -177,6 +149,11 @@
         <option value="$PROJECT_DIR$/scrapy-pyinstaller/gp/middlewares.py" />
         <option value="$PROJECT_DIR$/scrapy/每日/gp/middlewares.py" />
         <option value="$PROJECT_DIR$/scrapy/美股每日/gp/middlewares.py" />
+        <option value="$PROJECT_DIR$/数据分析/test.py" />
+        <option value="$PROJECT_DIR$/scrapy-pyinstaller/gp/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapy-pyinstaller/gp/settings.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/KuaiZip/009900b5000c00da00520027002000d8.temp/爬虫/scrapy-pyinstaller/gp/pipelines.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/KuaiZip/008c0032002700f6005400bf009300fc.temp/爬虫/scrapy-pyinstaller/gp/settings.py" />
       </list>
     </option>
   </component>
@@ -192,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,11 +177,26 @@
               <item name="爬虫" type="b2602c69:ProjectViewProjectNode" />
               <item name="爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="爬虫" type="b2602c69:ProjectViewProjectNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy-pyinstaller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="爬虫" type="b2602c69:ProjectViewProjectNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy-pyinstaller" type="462c0819:PsiDirectoryNode" />
+              <item name="gp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="爬虫" type="b2602c69:ProjectViewProjectNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="数据分析" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.test">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -350,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.start" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -414,22 +407,27 @@
       <workItem from="1592271164989" duration="6890000" />
       <workItem from="1592316754831" duration="2341000" />
       <workItem from="1592383544056" duration="7397000" />
+      <workItem from="1592446311414" duration="8527000" />
+      <workItem from="1592486800269" duration="4218000" />
+      <workItem from="1592537409653" duration="5894000" />
+      <workItem from="1592557335198" duration="1833000" />
+      <workItem from="1592619387507" duration="722000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290653000" />
+    <option name="totallyTimeSpent" value="311847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49866667" visible="true" weight="0.17718795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49866667" visible="true" weight="0.19153515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50133336" side_tool="true" weight="0.21520804" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34688348" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31300813" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35365853" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4078591" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -638,85 +636,16 @@
     <SUITE FILE_PATH="coverage/$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1592390831459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/历史数据爬取" />
     <SUITE FILE_PATH="coverage/$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1584679083043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/指数" />
     <SUITE FILE_PATH="coverage/$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1592223383263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/汇总" />
-    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1592222599563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1592547581370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析" />
     <SUITE FILE_PATH="coverage/$historialstock.coverage" NAME="historialstock Coverage Results" MODIFIED="1584103473336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/美股" />
     <SUITE FILE_PATH="coverage/$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1585897606600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/美国基金" />
     <SUITE FILE_PATH="coverage/$start.coverage" NAME="start Coverage Results" MODIFIED="1592318513797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/汇总" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/毕设/设计/分析/Untitled.ipynb" />
-    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/lagou/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="128" column="63" lean-forward="true" selection-start-line="128" selection-start-column="63" selection-end-line="128" selection-end-column="63" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/lagou/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/test.py" />
-    <entry file="file://$PROJECT_DIR$/美股每日/gp/spiders/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/lagou/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <element signature="e#194#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/lagou/spiders/LagouSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="150" selection-start-line="150" selection-end-line="150" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/每日/gp/spiders/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3124">
-          <caret line="180" column="53" selection-start-line="180" selection-start-column="53" selection-end-line="180" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/每日/gp/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/lagou/spiders/LagouSpider.py" />
+    <entry file="file://$PROJECT_DIR$/拉勾网/lagou/test.py" />
+    <entry file="file://$PROJECT_DIR$/每日/gp/spiders/crawler.py" />
+    <entry file="file://$PROJECT_DIR$/每日/gp/middlewares.py" />
     <entry file="file://$USER_HOME$/Desktop/spider/A_gp/gp/spiders/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-953">
@@ -724,81 +653,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/每日/gp/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/spiders/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="32" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/spiders/DailyFunds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/每日/gp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="88" selection-start-line="88" selection-end-line="91" selection-end-column="31" />
-          <folding>
-            <element signature="e#417#431#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="87" selection-start-line="87" selection-end-line="88" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/每日/gp/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="47" column="50" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="47" selection-end-column="50" />
-          <folding>
-            <element signature="e#195#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="48" column="35" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="48" selection-end-column="35" />
-          <folding>
-            <element signature="e#196#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美股每日/gp/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="40" column="31" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/每日/gp/items.py" />
+    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/spiders/crawler.py" />
+    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/items.py" />
+    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/spiders/DailyFunds.py" />
+    <entry file="file://$PROJECT_DIR$/每日/gp/settings.py" />
+    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/settings.py" />
+    <entry file="file://$PROJECT_DIR$/每日/gp/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/美股每日/gp/pipelines.py" />
     <entry file="file://$USER_HOME$/Desktop/spider/US_gp/gp/spiders/crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-693">
@@ -808,114 +671,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="85" column="33" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="73" column="49" selection-start-line="73" selection-start-column="49" selection-end-line="73" selection-end-column="49" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/log/scrapy_2020_6_16">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="80" lean-forward="true" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="146" column="33" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2604">
-          <caret line="125" column="23" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
-          <folding>
-            <element signature="e#417#431#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/cnspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="65" column="54" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/DailyFunds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/fundspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="81" column="61" lean-forward="true" selection-start-line="81" selection-start-column="61" selection-end-line="81" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/汇总/gp/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
-          <folding>
-            <element signature="e#195#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy/每日/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/汇总/gp/items.py" />
+    <entry file="file://$PROJECT_DIR$/美国基金/funds/funds/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/log/scrapy_2020_6_16" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/crawler.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/settings.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/cnspider.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/DailyFunds.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/spiders/fundspider.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/start.py" />
+    <entry file="file://$PROJECT_DIR$/汇总/gp/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy/每日/test.py" />
     <entry file="file://$PROJECT_DIR$/scrapy/拉勾网/lagou/lagou/spiders/LagouSpider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-378" />
@@ -1047,7 +814,47 @@
     <entry file="file://$PROJECT_DIR$/scrapy-pyinstaller/gp/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
-          <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据分析/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy-pyinstaller/gp/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="64" column="16" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/KuaiZip/009900b5000c00da00520027002000d8.temp/爬虫/scrapy-pyinstaller/gp/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/KuaiZip/008a00f300ed00fb00f600740085002e.temp/爬虫/scrapy-pyinstaller/gp/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-910" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/KuaiZip/008c0032002700f6005400bf009300fc.temp/爬虫/scrapy-pyinstaller/gp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy-pyinstaller/gp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>

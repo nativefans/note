@@ -79,9 +79,9 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'gp.pipelines.MongoDBPipeline': 300,
-}
+# ITEM_PIPELINES = {
+#    'gp.pipelines.MongoDBPipeline': 300,
+# }
 
 MONGODB_SERVER = "localhost"
 MONGODB_PORT = 27017
